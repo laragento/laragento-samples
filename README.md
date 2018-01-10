@@ -1,0 +1,1 @@
+# laragento-samples
