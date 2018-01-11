@@ -1,0 +1,7 @@
+{
+  "name": "laragento/review",
+  "description": "Laragento Review",
+  "type": "extension",
+  "minimum-stability": "dev",
+  "require": {}
+}
